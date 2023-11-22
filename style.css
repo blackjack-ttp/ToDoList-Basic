@@ -12,7 +12,15 @@ body {
 #todo-container {
     max-width: 400px;
     width: 100%;
+    padding: 20px;
     text-align: center;
+    background-color: #9EDDFF;
+    border-radius: 20px;
+}
+
+#todo-title {
+    text-transform: uppercase;
+    color: #6499E9;
 }
 
 #todo-list {
